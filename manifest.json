@@ -10,7 +10,7 @@
         "email": "yolateng0@yolateng0.nohost.me"
     },
     "requirements": {
-        "yunohost": ">= 2.4.0"
+        "yunohost": ">= 11.0.9.1"
     },
     "multi_instance": "false",
     "arguments": {
